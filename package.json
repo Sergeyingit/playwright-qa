@@ -17,5 +17,11 @@
   "homepage": "https://github.com/Sergeyingit/playwright-qa#readme",
   "devDependencies": {
     "@playwright/test": "^1.32.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "playwright-core": "^1.32.2"
   }
 }
