@@ -1,0 +1,21 @@
+{
+  "name": "playwright-qa",
+  "version": "1.0.0",
+  "description": "studying Playwright + ci + allure",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergeyingit/playwright-qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergeyingit/playwright-qa/issues"
+  },
+  "homepage": "https://github.com/Sergeyingit/playwright-qa#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.2"
+  }
+}
